@@ -1,4 +1,4 @@
-# Pytorch Exercises
+# Introduction to PyTorch
 This repository contains tutorials to learn how to program in Pytorch.
 
 
@@ -8,11 +8,10 @@ This repository contains tutorials to learn how to program in Pytorch.
 * [Status](#status)
 
 ## General info
-I want to learn deep learning. It fascinates me that we can create programs that can figure out things on their own. Pytorch is a popular deep learning library and I find it each to use and understand.
+I want to learn deep learning. It fascinates me that we can create programs that figure out things on their own. PyTorch is a popular deep learning library used at OpenAI.
 
 ## Contents
-1. Intro-lesson
-Status: _Finished_
+1. pytorch-foundational-lesson
 2. 60-minute tutorial
 
 ## Status
@@ -29,6 +28,9 @@ _In progress_
 * [ ] Include comments and notes in each file to explain each step
 * [ ] Include code snippets (video?) that address questions IRL teams will ask
 
-[ ] Add contact, usage/cloning/installation?, and code sample sections 
+[ ] Add contact, usage/cloning/installation?, and code sample sections
+
+# Contact
+Email - christopher.logan.ortiz@gmail.com
 
 
